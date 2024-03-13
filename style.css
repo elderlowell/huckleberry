@@ -16,9 +16,7 @@ header {
 }
 
 .max-width-wrapper {
-  /* width: fit-content; */
-  margin-inline-start: auto;
-  margin-inline-end: auto;
+  margin-inline: auto;
   max-width: 800px;
 }
 
